@@ -1,4 +1,4 @@
-# Mission Planning and Operations Simulation for Space Systems Management Capstone
+# Mission Planning and Operations Simulation for Space Systems Management 
 
 This repository contains the source code, documentation, and resources for a mission planning and operations simulation developed as a capstone/thesis project in space systems management. The project focuses on simulating the lifecycle of a space mission, from initial planning to operational execution, using advanced simulation techniques and methodologies.
 
